@@ -1,6 +1,6 @@
 {
   "name": "network-selfie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This project exposes an endpoint to upload a selfie from your device's camera",
   "main": "dist/index.js",
   "scripts": {
