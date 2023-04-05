@@ -1,0 +1,23 @@
+{
+  "name": "network-selfie",
+  "version": "1.0.0",
+  "description": "This project exposes an endpoint to upload a selfie from your device's camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jhonny9550/network-selfie.git"
+  },
+  "keywords": [
+    "express",
+    "typescript"
+  ],
+  "author": "jhonny9550",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonny9550/network-selfie/issues"
+  },
+  "homepage": "https://github.com/jhonny9550/network-selfie#readme"
+}
